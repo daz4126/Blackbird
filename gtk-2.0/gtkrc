@@ -10,7 +10,7 @@ gtk_color_scheme	= "link_color:#74a0c6" # Hyperlinks
 gtk_color_scheme	= "panel_bg:#686868" # Panel bg color
 gtk_color_scheme	= "fm_color:#F7F7F7" # Color used in Nautilus and Thunar.
 #gtk_color_scheme        = "nox_bgr: #5C5E61;nox_fgr: #EEEEEC;nox_bas: #D7D7D7;nox_txt: #1F1F1F;fg_color: #EEEEEC;bg_color: #5C5E61;text_color: #1F1F1F;base_color: #D7D7D7;selected_fg_color: #1F1F1F;selected_bg_color: #7CA4CF;tooltip_fg_color: #1F1F1F;tooltip_bg_color: #FCF5B8;clr_red: #EF2929;clr_grn: #8AE234;clr_blu:#729FCF"
-gtk_color_scheme	= "bg_color_dark:#302852\ntext_color_dark:#FFF"
+gtk_color_scheme	= "bg_color_dark:#2A2F4D\ntext_color_dark:#FFF"
 
 gtk-icon-sizes		= "panel-menu=16,16:panel=16,16:gtk-button=16,16"			# Set icon size for button without text
 gtk-button-images	= 0					# Disables icons for buttons with text
